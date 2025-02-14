@@ -33,13 +33,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## 💡Features
-#### 1. QR Code Generator
-#### 2. QR Code Scanner
-#### 3. QR Code History
-#### 4. Download QR Code
-#### 5. BarCode Scanner
+## 💡 Features
 
+- 📱 **QR Code Generator**
+- 📷 **QR Code Scanner**
+- 📝 **QR Code History**
+- ⬇️ **Download QR Code**
+- 🔍 **BarCode Scanner**
 
 ## 🛠️Installation and Setup
 
